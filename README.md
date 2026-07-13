@@ -121,19 +121,6 @@ C:\Users\User\Documents
 
 ---
 
-### Future Improvements
-
-- Recursive directory scanning
-- Multi-threaded hashing
-- Progress indicator
-- Delete duplicate files
-- Export results to CSV
-- Ignore selected file extensions
-- Ignore symbolic links
-- Interactive duplicate selection
-
----
-
 ### Author: Michal Švrček
 
 <div align="center">
